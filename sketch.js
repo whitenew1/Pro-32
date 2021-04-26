@@ -60,11 +60,11 @@ bg = "images/sunrise4.png"
 
     bg = "images/sunrise6.png"
     
-}else if(hour>=16 && hour<=19){ 
+}else if(hour>=19 && hour<=21){ 
 
     bg = "images/sunset7.png"
     
-}else if(hour>=19 && hour<=21){ 
+}else if(hour>=16 && hour<=19){ 
 
   bg = "images/sunset8.png"
         
